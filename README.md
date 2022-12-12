@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+Live URL = https://himanshubijalwan.github.io/qr-page-bootstrap.github.io/index.html
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
